@@ -1,0 +1,4 @@
+Steps Taken:
+Do research on USB Reverse engineering: https://www.devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/#software
+Download USBView from Microsoft: https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/usbview?redirectedfrom=MSDN
+Create solution to throw commands at the controller: 
